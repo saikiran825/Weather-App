@@ -74,6 +74,7 @@ This project uses the OpenWeatherMap Current Weather API.
 
 ## Author
 
-**Your Name**
+**Sai kiran**
+saikiran8025@gmail.com
 
 Feel free to explore the project and suggest improvements.
